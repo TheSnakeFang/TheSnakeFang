@@ -1,6 +1,9 @@
-Hello, I'm Kevin. I am not a great coder so if you're here it's either by accident or I've decided to run for office/achieved some level of mediocrity, and you're snooping for dirt.
-Either way, welcome! Out of pure shame, my old websites are kept private (sorry), and all you'll find here are some old school projects and little things I've made through the years.
-If you want to contact me, you'll find me AT kevinfang.tech or kevinfang AT cmu.edu
+Hello, I'm Kevin. You must be a recruiter, a PI, or someone with way too much time on their hands (I don't judge).
+
+Out of pure shame, my old website repos are kept private (sorry), and all you'll find public here is my website, some old school projects, and little things I've made through the years. I'm most proud of my CMU labs, but the risky of pesky academic integrity violations keep me from sharing them. 
+
+My website is kevinfang.tech and email is kevinfang AT cmu.edu
+
 Cheers!
 <!---
 TheSnakeFang/TheSnakeFang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
