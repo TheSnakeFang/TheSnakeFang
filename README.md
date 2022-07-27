@@ -6,9 +6,9 @@ Contact me: kevinfang AT cmu.edu
 
 Cheers!
 
-```
+
 ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
-```
+
 
 <!---
 TheSnakeFang/TheSnakeFang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
