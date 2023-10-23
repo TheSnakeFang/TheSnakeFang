@@ -10,7 +10,7 @@ You can check out my personal website repo, some side projects, and random one-o
 
 🔭 **Currently working on**: MoonShot, a university research project focused on lunar exploration. Check out the [Iris Lunar Rover]((https://irislunarrover.space/)), launching in late 2023!
 
-📫 **Contact**: [Email](mailto:kevinfang@cmu.edu) | [Website](https://kevinfang.tech) | [Linkedin]((https://www.linkedin.com/in/hirekevinfang/))
+📫 **Contact**: [Email](mailto:kevinfang@cmu.edu) | [Website](https://kevinfang.tech) | [Linkedin](https://www.linkedin.com/in/hirekevinfang/)
 
 ## Skills 🛠
 
