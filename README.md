@@ -47,4 +47,4 @@ You can check out my personal website repo, some side projects, and random one-o
 
 ## Most Used Languages (Public Repos) 🌐
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheSnakeFang)](https://github.com/TheSnakeFang/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheSnakeFang&theme=radical)](https://github.com/TheSnakeFang/github-readme-stats)
