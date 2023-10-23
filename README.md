@@ -19,7 +19,7 @@ You can check out my personal website repo, some side projects, and random one-o
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask) ![Gatsby](https://img.shields.io/badge/-Gatsby-333333?style=flat&logo=gatsby) ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)  
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma) ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop) ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
-## Experience 🛠
+## Experience 💼
 
 ### Cloud & Digital Consulting Intern
 **PricewaterhouseCoopers LLP, New York, NY**  
