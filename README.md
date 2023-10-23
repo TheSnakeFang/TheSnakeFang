@@ -9,6 +9,7 @@ Hello! I'm Kevin, a Computer Science and Business Administration double major at
 You can check out my personal website repo, some side projects, and random one-off works here. For more, check out my portfolio and blog on my website (they haven't been updated in a few years though).
 
 🔭 **Currently working on**: MoonShot, a university research project focused on lunar exploration. Check out the [Iris Lunar Rover]((https://irislunarrover.space/)), launching in late 2023!
+
 📫 **Contact**: [Email](mailto:kevinfang@cmu.edu) | [Website](https://kevinfang.tech) | [Linkedin]((https://www.linkedin.com/in/hirekevinfang/))
 
 ## Skills 🛠
