@@ -4,9 +4,9 @@
 
 ## About Me 🚀
 
-Hello! I'm Kevin, a Computer Science and Business Administration double major at Carnegie Mellon University. Sadly not many public repos since making my school projects public would get me a stern call from the academic integrity office 😞.
+Hello! I'm Kevin, undergrad senior majoring in Computer Science and Business Administration at Carnegie Mellon University. Sadly not many public repos avaliable since making my school projects public would get me a stern call from the academic integrity office 😞.
 
-You can check out my personal website repo, some side projects, and random one-off works here. For more, check out my portfolio and blog on my website (they haven't been updated in a few years though).
+You can check out my personal website, some side projects, and random one-off works here. For more, check out my portfolio and blog on my website (they haven't been updated in a few years though).
 
 🔭 **Currently working on**: MoonShot, a university research project focused on lunar exploration. Check out the [Iris Lunar Rover]((https://irislunarrover.space/)), launching in late 2023!
 
@@ -38,6 +38,9 @@ You can check out my personal website repo, some side projects, and random one-o
 *Sep 2021 - Feb 2022*  
 - Managed instant booking feature development, including patent research and focus group testing  
 - Reduced average onboarding time by 20% through smart autofill features
+
+### Your company could be here!
+**Looking for roles in product, engineering, and strategy**
 
 ## Past Projects 📚
 
