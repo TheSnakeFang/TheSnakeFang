@@ -8,7 +8,7 @@ Hello! I'm Kevin, undergrad senior majoring in Computer Science and Business Adm
 
 You can check out my personal website, some side projects, and random one-off works here. For more, check out my portfolio and blog on my website (they haven't been updated in a few years though).
 
-🔭 **Currently working on**: MoonShot, a university research project focused on lunar exploration. Check out the [Iris Lunar Rover]((https://irislunarrover.space/)), launching on December 24th!
+🔭 **Currently working on**: MoonShot, a university research project focused on lunar exploration. Check out the [Iris Lunar Rover]((https://irislunarrover.space/)), launching [on December 24th](https://techcrunch.com/2023/10/25/ula-aims-to-launch-astrobotic-lunar-lander-on-christmas-eve/)!
 
 📫 **Contact**: [Email](mailto:kevinfang@cmu.edu) | [Website](https://kevinfang.tech) | [Linkedin](https://www.linkedin.com/in/hirekevinfang/)
 
@@ -40,7 +40,7 @@ You can check out my personal website, some side projects, and random one-off wo
 - Reduced average onboarding time by 20% through smart autofill features
 
 ### Your company could be here!
-**Looking for roles in product, engineering, and strategy**
+**Looking for new grad 2024 roles in product, engineering, design, data, and strategy**
 
 ## Past Projects 📚
 
