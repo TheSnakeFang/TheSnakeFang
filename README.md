@@ -6,7 +6,7 @@
 
 Hello! I'm Kevin, undergrad senior majoring in Computer Science and Business Administration at Carnegie Mellon University. Sadly not many public repos avaliable since making my school projects public would get me a stern call from the academic integrity office 😞.
 
-You can check out my personal website, some side projects, and random one-off works here. For more, check out my portfolio and blog on my website (they haven't been updated in a few years though).
+You can check out my personal website, some side projects, a few class assignments, and random one-off works here. For more, check out my portfolio and blog on my website (they haven't been updated in a few years though).
 
 🔭 **Currently working on**: MoonShot, a university research project focused on lunar exploration. Check out the [Iris Lunar Rover]((https://irislunarrover.space/)), launching [on December 24th](https://techcrunch.com/2023/10/25/ula-aims-to-launch-astrobotic-lunar-lander-on-christmas-eve/)!
 
@@ -21,7 +21,7 @@ You can check out my personal website, some side projects, and random one-off wo
 
 ## Experience 💼
 
-### Cloud & Digital Consulting Intern
+### Cloud & Digital Intern
 **PricewaterhouseCoopers LLP, New York, NY**  
 *Jun 2023 - Aug 2023*  
 - Integrated Microsoft enterprise solutions for clients in banking and aviation  
