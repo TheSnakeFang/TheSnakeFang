@@ -4,11 +4,11 @@
 
 ## About Me 🚀
 
-Hello! I'm Kevin, undergrad senior majoring in Computer Science and Business Administration at Carnegie Mellon University. Sadly not many public repos avaliable since making my school projects public would get me a stern call from the academic integrity office 😞.
+Hello! I'm Kevin, undergrad senior with majors in Business Administration and Computer Science studying at Carnegie Mellon University. Sadly not many public repos available since making my school projects public would get me a stern call from the academic integrity office 😞.
 
 You can check out my personal website, some side projects, a few class assignments, and random one-off works here. For more, check out my portfolio and blog on my website (they haven't been updated in a few years though).
 
-🔭 **Currently working on**: MoonShot, a university research project focused on lunar exploration. Check out the [Iris Lunar Rover]((https://irislunarrover.space/)), launching [on December 24th](https://techcrunch.com/2023/10/25/ula-aims-to-launch-astrobotic-lunar-lander-on-christmas-eve/)!
+🔭 **Currently working on**: MoonShot, a university research project focused on lunar exploration. Check out the [Iris Lunar Rover]((https://irislunarrover.space/)), which [launched on January 8th](https://newsroom.ulalaunch.com/releases/united-launch-alliance-successfully-launches-first-next-generation-vulcan-rocket)!
 
 📫 **Contact**: [Email](mailto:kevinfang@cmu.edu) | [Website](https://kevinfang.tech) | [Linkedin](https://www.linkedin.com/in/hirekevinfang/)
 
