@@ -6,7 +6,7 @@
 
 Hello! I'm Kevin, undergrad senior with majors in Business Administration and Computer Science studying at Carnegie Mellon University. Sadly not many public repos available since making my school projects public would get me a stern call from the academic integrity office 😞.
 
-You can check out my personal website, some side projects, a few class assignments, and random one-off works here. For more, check out my portfolio and blog on my website (they haven't been updated in a few years though).
+You can check out my personal website, some side projects, the work I do for the Iris Lunar Rover, a few class assignments, and random one-off works here. For more, check out my portfolio and blog on my website (they haven't been updated in a few years though).
 
 🔭 **Currently working on**: MoonShot, a university research project focused on lunar exploration. Check out the [Iris Lunar Rover]((https://irislunarrover.space/)), which [launched on January 8th](https://newsroom.ulalaunch.com/releases/united-launch-alliance-successfully-launches-first-next-generation-vulcan-rocket)!
 
