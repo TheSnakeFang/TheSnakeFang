@@ -15,7 +15,7 @@ You can check out my personal website, some side projects, the work I do for the
 ## Skills 🛠
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)  
+![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js) 
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask) ![Gatsby](https://img.shields.io/badge/-Gatsby-333333?style=flat&logo=gatsby) ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)  
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma) ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop) ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
