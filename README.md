@@ -21,7 +21,11 @@ You can check out my personal website, some side projects, the work I do for the
 
 ## Experience 💼
 
-### Cloud & Digital Intern
+### Product
+**Replo, San Francisco, CA**  
+*May 2024 - Present*  
+
+### Technical Consulting
 **PricewaterhouseCoopers LLP, New York, NY**  
 *Jun 2023 - Aug 2023*  
 - Integrated Microsoft enterprise solutions for clients in banking and aviation  
@@ -40,7 +44,6 @@ You can check out my personal website, some side projects, the work I do for the
 - Reduced average onboarding time by 20% through smart autofill features
 
 ### Your company could be here!
-**Looking for new grad 2024 roles in product, engineering, design, data, and strategy**
 
 ## Past Projects 📚
 
