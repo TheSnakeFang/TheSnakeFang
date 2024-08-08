@@ -4,9 +4,9 @@
 
 ## About Me 🚀
 
-Hello! I'm Kevin, undergrad senior with majors in Business Administration and Computer Science studying at Carnegie Mellon University. Sadly not many public repos available since making my school projects public would get me a stern call from the academic integrity office 😞.
+Hello! I'm Kevin, an honors graduate in Computer Science and Business administration from Carnegie Mellon University. Sadly not many public repos available since making my school projects public would get me a stern call from the academic integrity office 😞.
 
-You can check out my personal website, some side projects, the work I do for the Iris Lunar Rover, a few class assignments, and random one-off works here. For more, check out my portfolio and blog on my website (they haven't been updated in a few years though).
+You can check out my personal website, some side projects, the work I do for the Iris Lunar Rover, a few class assignments, and random one-off works here. For more, check out my portfolio and blog on my website (they haven't been updated in a bit though).
 
 🔭 **Currently working on**: University research projects focused on lunar robotics exploration. Check out the [Iris Lunar Rover]((https://irislunarrover.space/)), which [launched on January 8th](https://newsroom.ulalaunch.com/releases/united-launch-alliance-successfully-launches-first-next-generation-vulcan-rocket)!
 
@@ -25,7 +25,7 @@ You can check out my personal website, some side projects, the work I do for the
 **Replo, San Francisco, CA**  
 *May 2024 - Present*  
 
-### Technical Consulting
+### Cloud & Digital Intern
 **PricewaterhouseCoopers LLP, New York, NY**  
 *Jun 2023 - Aug 2023*  
 - Integrated Microsoft enterprise solutions for clients in banking and aviation  
