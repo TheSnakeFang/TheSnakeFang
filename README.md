@@ -4,13 +4,13 @@
 
 ## About Me 🚀
 
-Hello! I'm Kevin, an honors graduate in Computer Science and Business administration from Carnegie Mellon University. Sadly not many public repos available since making my school projects public would get me a stern call from the academic integrity office 😞.
+Hello! I'm Kevin, an honors graduate in Computer Science and Business Administration from Carnegie Mellon University. Sadly not many public repos available since making my school projects public would get me a stern call from the academic integrity office 😞.
 
 You can check out my personal website, some side projects, the work I do for the Iris Lunar Rover, a few class assignments, and random one-off works here. For more, check out my portfolio and blog on my website (they haven't been updated in a bit though).
 
-🔭 **Currently working on**: University research projects focused on lunar robotics exploration. Check out the [Iris Lunar Rover]((https://irislunarrover.space/)), which [launched on January 8th](https://newsroom.ulalaunch.com/releases/united-launch-alliance-successfully-launches-first-next-generation-vulcan-rocket)!
+🔭 **Check out**: CMU research projects focused on lunar robotics exploration. Check out the [Iris Lunar Rover]((https://irislunarrover.space/)), which [launched on January 8th](https://newsroom.ulalaunch.com/releases/united-launch-alliance-successfully-launches-first-next-generation-vulcan-rocket)!
 
-📫 **Contact**: [Email](mailto:kevinfang@cmu.edu) | [Website](https://kevinfang.tech) | [Linkedin](https://www.linkedin.com/in/hirekevinfang/)
+📫 **Contact**: [Email](mailto:me@kevinfang.tech) | [Website](https://kevinfang.tech) | [Linkedin](https://www.linkedin.com/in/hirekevinfang/)
 
 ## Skills 🛠
 
@@ -24,17 +24,19 @@ You can check out my personal website, some side projects, the work I do for the
 ### Product
 **Replo, San Francisco, CA**  
 *May 2024 - Present*  
+- Fixed up ETL/Reverse ETL pipelines with Dagster/DBT, Snowflake, Airbyte
+- Supported Posthog event integration, Figma to Replo plugin, freelancer program.
 
 ### Cloud & Digital Intern
 **PricewaterhouseCoopers LLP, New York, NY**  
 *Jun 2023 - Aug 2023*  
-- Integrated Microsoft enterprise solutions for clients in banking and aviation  
+- Customized & implemented Microsoft Dynamics software for clients in banking and aviation  
 - Developed an AI toolbox and strategy for PwC's Operations Transformation team
 
 ### Product Growth Intern
 **Daily Challenge with Po-Shen Loh, Pittsburgh, PA**  
 *May 2022 - May 2023*  
-- Executed rebranding and advertisement strategies, improving email CTR by 26%  
+- Redid our email advertisement strategies + flows, improving email CTR by 26%  
 - Implemented live chat & call bookings, leading to 1,500+ additional client conversations
 
 ### Product Management Intern
