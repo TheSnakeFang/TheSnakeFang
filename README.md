@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-Hello! I'm Kevin, an honors graduate in Computer Science and Business Administration from Carnegie Mellon University. Sadly not many public repos available since making my school projects public would get me a stern call from the academic integrity office 😞.
+Hello! I'm Kevin, an honors graduate in Computer Science and Business Administration from Carnegie Mellon University. Sadly not many public repos available since I do like my degree and job 😞.
 
 You can check out my personal website, some side projects, the work I do for the Iris Lunar Rover, a few class assignments, and random one-off works here. For more, check out my portfolio and blog on my website (they haven't been updated in a bit though).
 
@@ -24,7 +24,7 @@ You can check out my personal website, some side projects, the work I do for the
 ### Product
 **Replo, San Francisco, CA**  
 *May 2024 - Present*  
-- Fixed up ETL/Reverse ETL pipelines with Dagster/DBT, Snowflake, Airbyte
+- Set up ETL/Reverse ETL pipelines with Dagster/DBT, Snowflake, Airbyte, wrote custom Hubspot connecter.
 - Supported Posthog event integration, Figma to Replo plugin, freelancer program.
 
 ### Cloud & Digital Intern
