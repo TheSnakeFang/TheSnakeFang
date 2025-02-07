@@ -6,7 +6,7 @@
 
 Hello! I'm Kevin.
 
-You can check out my personal website, some side projects, etc here. Website hasn't been updated in a while should ask Devin.ai to do so lmao.
+You can check out my personal website, some side projects, winning hackathon projects, etc here. Website hasn't been updated in a while should ask Devin.ai to do so lmao.
 
 🔭 **Check out**: CMU research projects focused on lunar robotics exploration. Check out the [Iris Lunar Rover]((https://irislunarrover.space/)), which [launched on January 8th](https://newsroom.ulalaunch.com/releases/united-launch-alliance-successfully-launches-first-next-generation-vulcan-rocket)!
 
