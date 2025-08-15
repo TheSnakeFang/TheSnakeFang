@@ -10,7 +10,5 @@
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=TheSnakeFang)](https://github.com/LordDashMe/github-contribution-stats/)
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=TheSnakeFang)](https://github.com/LordDashMe/github-contribution-stats/)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=TheSnakeFang)](https://git.io/streak-stats)
 
